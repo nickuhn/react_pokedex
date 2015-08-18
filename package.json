@@ -1,0 +1,30 @@
+{
+  "name": "react_pokedex",
+  "version": "0.1.0",
+  "description": "pokedex built in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickuhn/react_pokedex.git"
+  },
+  "keywords": [
+    "react",
+    "pokemon",
+    "list"
+  ],
+  "author": "Nick Kuhn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickuhn/react_pokedex/issues"
+  },
+  "homepage": "https://github.com/nickuhn/react_pokedex#readme",
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "react": "^0.13.3",
+    "reactify": "^1.1.1",
+    "superagent": "^1.3.0"
+  }
+}
