@@ -7,7 +7,7 @@ var request = require('superagent');
 module.exports = React.createClass({
   getInitialState: function() {
     return {
-      pokemon: [{name: "Testermon", type: "bug", height: "19", weight: "42"}]
+      pokemon: []
     }
   },
 

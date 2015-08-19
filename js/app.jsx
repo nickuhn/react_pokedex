@@ -7,7 +7,7 @@ var App = React.createClass({
   render: function() {
     return (
       <main>
-        <h1>Pokedex Reactified</h1>
+        <h1>Reactedex</h1>
         <Pokedex />
       </main>
     );
